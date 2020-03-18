@@ -1,0 +1,11 @@
+Term	Freq	mirs
+positive regulation of supramolecular fiber organization	4	miR-629-3p, miR-30a-3p, miR-338-3p, miR-30e-3p
+behavior	3	miR-125b-2-3p, miR-15b-3p, miR-421
+biological regulation	3	miR-4689, miR-514a-3p, miR-6743-3p
+cell-cell adhesion via plasma-membrane adhesion molecules	3	miR-4516, miR-650, miR-133b
+cellular metabolic process	3	miR-6848-3p, miR-6741-3p, miR-6743-3p
+immune system development	3	miR-1343-5p, miR-30e-3p, miR-30b-5p
+nitrogen compound metabolic process	3	miR-6848-3p, miR-6741-3p, miR-6743-3p
+protein metabolic process	3	miR-6741-3p, miR-744-3p, miR-551b-3p
+regulation of cellular process	3	miR-4689, miR-514a-3p, miR-6743-3p
+regulation of multicellular organismal process	3	miR-6848-3p, miR-30a-3p, miR-126-3p
